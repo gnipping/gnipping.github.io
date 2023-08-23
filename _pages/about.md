@@ -7,11 +7,8 @@ subtitle: Ph.D. Student @ <a href='https://nesa.zju.edu.cn/'>ZJU NESA Lab</a>, <
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   address: >
-    # <p>Caoguangbiao Building, Yuquan Campus</p>
-    # <p>College of Computer Science and Technology</p>
-    # <p>Zhejiang University</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
