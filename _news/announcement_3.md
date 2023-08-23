@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper was accepted by <a href="https://www.sigsac.org/ccs/CCS2023/">ACM CCS</a>.
+🎉 One paper was accepted by <a href="https://www.sigsac.org/ccs/CCS2023/">ACM CCS 2023</a>.
