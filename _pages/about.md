@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Caoguangbiao Building, Yuquan Campus</p>
-    <p>College of Computer Science and Technology</p>
-    <p>Zhejiang University</p>
+    # <p>Caoguangbiao Building, Yuquan Campus</p>
+    # <p>College of Computer Science and Technology</p>
+    # <p>Zhejiang University</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
