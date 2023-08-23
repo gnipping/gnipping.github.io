@@ -8,7 +8,7 @@ middle_name:
 last_name: He
 email: gnip@zju.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website of Ph.D Student Ping He.
+  Website of Ph.D. Student Ping He.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -184,7 +184,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: Ping
-  first_name: He
+  last_name: [Ping]
+  first_name: [He]
 
   style: apa
   locale: en
