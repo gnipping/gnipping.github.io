@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Zhejiang University
       year: 2022 - Present
       description:
-        - Pursuing PhD in Computer Science and Technology
+        - Pursuing Ph.D. in Computer Science and Technology
         - Supervised by <a href="https://nesa.zju.edu.cn/webpage/crew/jsl.html">Shouling Ji</a>
         - Performing security and AI research at <a href="https://nesa.zju.edu.cn/">NESA Lab</a>
     - title: Bachelor's degree
