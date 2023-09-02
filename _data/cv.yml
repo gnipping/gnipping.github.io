@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: September 26th, 2000
     - name: Languages
-      value: Chinese, English
+      value: English, Chinese (native)
 
 - title: Education
   type: time_table
@@ -40,7 +40,6 @@
     - year: 2020
       items: 
         - Provincial Scholarships
-        - Huawei Elite Student Scholarship
     - year: 2019
       items: 
         - National Mathematics Competition for College Student (First Prize)
