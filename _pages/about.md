@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at Zhejiang University under the supervision of [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). I was collaborated with [Ting Wang](https://alps-lab.github.io/about/) from Stony Brook University. Prior to my doctoral studies, I earned my B.E. degree in Information Security from the College of Computer Science and Technology at Zhejiang University.
+I am a Ph.D. student at Zhejiang University under the supervision of [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to my doctoral studies, I earned my B.E. degree in Information Security from the College of Computer Science and Technology at Zhejiang University.
 
 My research interests span both computer security and machine learning. To be specific, I am keen on revisiting AI from the computer security perspective and employing AI in computer security applications.  In line with this, I am currently exploring the security risks of AI-powered systems, such as ML-based malware detection systems, and utilizing AI to enhance security applications, such as LLM-enhanced malicious code detection.
