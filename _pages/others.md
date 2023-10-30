@@ -10,6 +10,7 @@ nav_order: 3
 ### Review Service
 
 - IEEE Transactions on Information Forensics and Security (TIFS) --- 2023
+- IEEE Transactions on Image Processing (TIP) --- 2023
 
 ### External Reviewer
 
