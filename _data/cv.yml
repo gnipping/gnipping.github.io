@@ -27,15 +27,14 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Graduate with Merit A Performance (Zhejiang University)
     - year: 2022
       items: 
         - Outstanding Bachelor Thesis (College of Computer Science and Technology, Zhejiang University)
     - year: 2021
       items:  
-        - China International College Students' 'Internet+' Innovation and Entrepreneurship Competition (Golden Medal)
-        - National College Student Information Security Contest (Second Prize)
-        - Zhejiang University - Xiaomi Scholarship
-        - Learnings Innovation and Research Scholarship
         - Research Rising Star in Undergraduate Student (College of Computer Science and Technology, Zhejiang University)
     - year: 2020
       items: 
@@ -43,5 +42,3 @@
     - year: 2019
       items: 
         - National Mathematics Competition for College Student (First Prize)
-        - Mathematics Competition for College Student in Zhejiang Region (First Prize)
-
