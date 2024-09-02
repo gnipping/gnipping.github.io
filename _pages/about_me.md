@@ -1,0 +1,5 @@
+I am a Ph.D student at Zhejiang University under the supervision of Prof. [Shouling Ji](https://person.zju.edu.cn/en/sji). Prior to my doctoral studies, I earned my B.E. degree in Information Security from the College of Computer Science and Technology at Zhejiang University. I am currently visiting at University College London and worked with Prof. [Lorenzo Cavallaro](https://s2lab.cs.ucl.ac.uk/people/sullivan/).
+
+My research interests span both computer security and machine learning. To be specific, I am keen on revisiting AI from the computer security perspective and employing AI in computer security applications.  In line with this, I am currently exploring the security risks of AI-powered systems, such as ML-based malware detection systems, and utilizing AI to enhance security applications, such as LLM-enhanced malicious code detection.
+
+If you share similar interests, please feel free to reach out me via email. I am eager to engage in conversation and am open to the possibility of collaborating.

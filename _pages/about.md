@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Ph.D Student @ <a href='https://nesa.zju.edu.cn/'>ZJU NESA Lab</a>, <a href='http://www.en.cs.zju.edu.cn/'>College of Computer Science and Technology, Zhejiang University</a><br>Supervised by <a href='https://person.zju.edu.cn/en/sji'>Prof. Shouling Ji</a>
 
@@ -10,7 +10,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
+    <p>169 Euston Road</p>
+    <p>London, United Kingdom</p>
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
