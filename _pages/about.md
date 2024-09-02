@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D Student @ <a href='https://nesa.zju.edu.cn/'>ZJU NESA Lab</a>, <a href='http://www.en.cs.zju.edu.cn/'>College of Computer Science and Technology, Zhejiang University</a><br><br>Supervised by <a href='https://person.zju.edu.cn/en/sji'>Prof. Shouling Ji</a><br/>Academic Visitor @ <a href='https://s2lab.cs.ucl.ac.uk/'>UCL S2Lab</a>, <a href='https://www.ucl.ac.uk/computer-science/'>Department of Computer Science, University College London</a><br>Worked with <a href='https://s2lab.cs.ucl.ac.uk/people/sullivan/'>Prof. Lorenzo Cavallaro</a>
+subtitle: Ph.D Student @ <a href='https://nesa.zju.edu.cn/'>ZJU NESA Lab</a>, <a href='http://www.en.cs.zju.edu.cn/'>College of Computer Science and Technology, Zhejiang University</a>Supervised by <a href='https://person.zju.edu.cn/en/sji'>Prof. Shouling Ji</a><br/><br/><br>Academic Visitor @ <a href='https://s2lab.cs.ucl.ac.uk/'>UCL S2Lab</a>, <a href='https://www.ucl.ac.uk/computer-science/'>Department of Computer Science, University College London</a><br>Worked with <a href='https://s2lab.cs.ucl.ac.uk/people/sullivan/'>Prof. Lorenzo Cavallaro</a>
 
 profile:
   align: right
